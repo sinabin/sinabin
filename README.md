@@ -1,15 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm single developer living in korea.
 what I'm intersting is bellow. 
 
-Language
-
--java
--C#
--go
--js
--jsp
+## Language
+###-java
+###-C#
+###-go
+###-js
 
 <!--
 **sinabin/sinabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
