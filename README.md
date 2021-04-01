@@ -3,8 +3,13 @@
 I'm single developer living in korea.
 what I'm intersting is bellow.
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-
+##Language
+-java
+-C#
+-go
+-js
+-jsp
+##
 <!--
 **sinabin/sinabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
