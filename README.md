@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm single developer living in korea.
+what I'm intersting is bellow.
+#007396 ##000000
+
 <!--
 **sinabin/sinabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
