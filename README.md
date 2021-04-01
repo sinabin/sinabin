@@ -6,13 +6,9 @@ what I'm intersting is bellow.
 Language
 
 -java
-
 -C#
-
 -go
-
 -js
-
 -jsp
 
 <!--
