@@ -2,7 +2,7 @@
 
 I'm single developer living in korea.
 what I'm intersting is bellow.
-#007396 ##000000
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON SLUG].svg" />
 
 <!--
 **sinabin/sinabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
