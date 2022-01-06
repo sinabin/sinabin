@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm single developer living in korea.
+I'm developer living in korea.
 what I'm intersting is bellow. 
 
 
